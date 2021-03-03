@@ -1,0 +1,26 @@
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Local History for Visual Studio Code
+.history/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Read Me
+**/README.rst
+
+# Private Files
+.xlsx
+.csv
+.csv.gz
+.tsv
+.tsv.gz
+
